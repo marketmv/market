@@ -1,0 +1,28 @@
+{
+  "name": "anymeme",
+  "version": "0.0.1",
+  "subdomain": "market",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.0.6",
+    "jade": "*",
+    "stylus": "*",
+    "underscore": "~1.4.4",
+    "optimist": "~0.4.0",
+    "passport": "~0.1.16",
+    "passport-local": "~0.1.6",
+    "mongoose": "~3.6.11",
+    "socket.io": "~0.9.14",
+    "jade-browser": "0.0.9",
+    "passport-facebook": "~0.1.5",
+    "connect-mongo": "~0.3.2",
+    "fb": "~0.6.2",
+    "moment": "~2.0.0",
+    "async": "~0.2.8"
+  },
+  "engines": {
+    "node": "0.8.x"
+  }
+}
